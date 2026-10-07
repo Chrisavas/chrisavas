@@ -119,7 +119,7 @@ Currently expanding my knowledge in:
   <a href="https://github.com/chrisavas">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/chrysa-vasileiadou/">
+  <a href="https://www.linkedin.com/in/chrysa-vasileiadou-530290223/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:xrisoula2002@gmail.com">
